@@ -1,0 +1,56 @@
+{
+	"asset":{
+		"version":"0.0",
+		"tilesetVersion":"1.2.3"
+	},
+
+	"geometricError":4,
+
+	"root":{
+		"boundingVolume":{
+			"sphere":[6358677.1160683092,-498775.71521186864,313.37674406789802,35.100448608398438]
+		},
+		"geometricError":4,
+		"content":{
+			"url":"Tile_+005_+008_L19_00030t3.b3dm"
+		},
+		"children":[
+			{
+				"boundingVolume":{
+					"sphere":[6358675.1187938973,-498788.0900570277,301.66264895858944,17.519874572753906]
+				},
+				"geometricError":2,
+				"content":{
+					"url":"Tile_+005_+008_L20_000300.json"
+				}
+			},
+			{
+				"boundingVolume":{
+					"sphere":[6358674.7393408222,-498788.06038347608,325.18368794400862,17.622209548950195]
+				},
+				"geometricError":2,
+				"content":{
+					"url":"Tile_+005_+008_L20_000310.json"
+				}
+			},
+			{
+				"boundingVolume":{
+					"sphere":[6358678.3782830834,-498763.18929263641,301.66280463842611,17.727384567260742]
+				},
+				"geometricError":2,
+				"content":{
+					"url":"Tile_+005_+008_L20_000320.json"
+				}
+			},
+			{
+				"boundingVolume":{
+					"sphere":[6358677.615850958,-498763.12958040019,325.18383604481136,17.780902862548828]
+				},
+				"geometricError":2,
+				"content":{
+					"url":"Tile_+005_+008_L20_000330.json"
+				}
+			}
+		]
+	}
+}

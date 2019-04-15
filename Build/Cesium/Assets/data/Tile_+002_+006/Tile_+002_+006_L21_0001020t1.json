@@ -1,0 +1,38 @@
+{
+	"asset":{
+		"version":"0.0",
+		"tilesetVersion":"1.2.3"
+	},
+
+	"geometricError":1,
+
+	"root":{
+		"boundingVolume":{
+			"sphere":[6358723.479928962,-499122.176610386,100.411759810462,15.861533641815186]
+		},
+		"geometricError":1,
+		"content":{
+			"url":"Tile_+002_+006_L21_0001020t1.b3dm"
+		},
+		"children":[
+			{
+				"boundingVolume":{
+					"sphere":[6358718.0994308451,-499121.77632204874,100.37837516492414,10.46621036529541]
+				},
+				"geometricError":0.5,
+				"content":{
+					"url":"Tile_+002_+006_L22_00010200.b3dm"
+				}
+			},
+			{
+				"boundingVolume":{
+					"sphere":[6358728.8603775436,-499122.61423311208,100.40440665698125,10.463338851928711]
+				},
+				"geometricError":0.5,
+				"content":{
+					"url":"Tile_+002_+006_L22_00010210.json"
+				}
+			}
+		]
+	}
+}
